@@ -1,18 +1,14 @@
 # Peckr - a twitter clone
 
 Collaborators:
+
 - Amen.U
 - Shanika.L
 - Leena.J
 - Greg Ross
 - Iryna Y
 
-
-
-
 # Getting Started with Create React App
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
