@@ -6,7 +6,7 @@ Collaborators:
 - Shanika.L
 - Leena.J
 - Greg Ross
-- Iryna Y.
+- Iryna Y
 
 # Getting Started with Create React App
 
